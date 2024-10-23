@@ -11,7 +11,7 @@
 #### 📖 Estou atualmente:
 1. Lendo Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos (Erich Gamma)
 2. Lendo Redes de Computadores do Andrew Tanembaum
-3. Me aperfeiçoando nas tecnologias de desenvolvimento Back-end.
+3. Implementando um simulador de colônia de formigas
 
 <br>
   <div align="right">
