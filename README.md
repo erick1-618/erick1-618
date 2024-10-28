@@ -9,9 +9,9 @@
 3. Mapear soluções para sistemas, simulações e jogos utilizando como principal paradigma a OO.
 
 #### 📖 Estou atualmente:
-1. Lendo Padrões de Projetos: Soluções Reutilizáveis de Software Orientados a Objetos (Erich Gamma)
-2. Lendo Redes de Computadores do Andrew Tanembaum
-3. Implementando um simulador de colônia de formigas
+1. Lendo Redes de Computadores do Andrew Tanembaum
+2. Implementando um simulador de colônia de formigas
+3. Trabalhando em um e-commerce do Ramo Estudantil do IEEE
 
 <br>
   <div align="right">
