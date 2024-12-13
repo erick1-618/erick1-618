@@ -11,7 +11,7 @@
 #### 📖 Estou atualmente:
 1. Lendo Redes de Computadores do Andrew Tanembaum
 2. Implementando um simulador de colônia de formigas
-3. Trabalhando em um site de e-commerce do Ramo IEEE. 
+3. Trabalhando em um site de e-commerce do Ramo IEEE CEFET-RJ 
 
 <br>
   <div align="right">
