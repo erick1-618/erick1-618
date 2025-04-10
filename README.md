@@ -3,6 +3,11 @@
 
 ### 📌 Conheça um pouco sobre mim:
 
+#### Quem sou eu:
+1. Estudante de Bacharelado em Ciência da Computação, atualmente no 5º período.
+2. Bolsista de IC no Inmetro, na área de inteligência artificial aplicada à área automotiva.
+3. Monitor de Programação Orientada a Objetos
+
 #### ✅ Gosto bastante de:
 1. Java e Orientação à Objetos
 2. Simulações de modelos matemáticos
