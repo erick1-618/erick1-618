@@ -33,7 +33,7 @@
 
   <!-- Frameworks -->
 
-  - Frameowkrs/Ferramentas
+  - Frameworks/Ferramentas
   
   <div>
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
