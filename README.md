@@ -17,7 +17,7 @@
   <div align="right">
   <div align="left">
     
-[  [![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erick1-618&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erick1-618&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
   <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;"><br>
   
