@@ -17,7 +17,7 @@
   <div align="right">
   <div align="left">
     
-![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erick1-618&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/erick1-618?cardType=level&theme=tokyonight&fontFamily=Roboto&preferLogin=false)
 
   <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap;"><br>
   
