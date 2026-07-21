@@ -1,52 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&color=00F783&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
----
-
-### 📌 Conheça um pouco sobre mim
-
-Sou estudante de Bacharelado em Ciência da Computação, atualmente no 7º período, com foco no desenvolvimento de soluções eficientes, bem estruturadas e orientadas a boas práticas de engenharia de software. Atuo como bolsista de Iniciação Científica no Inmetro, trabalhando com inteligência artificial aplicada à área automotiva, além de estagiar na área de Análise de Sistemas, o que me proporciona uma vivência prática no desenvolvimento e na modelagem de soluções reais.
-
-Tenho grande interesse em Java e Programação Orientada a Objetos, utilizando esse paradigma como base para projetar sistemas, simulações e até jogos. Gosto especialmente de trabalhar com simulações de modelos matemáticos e de mapear problemas complexos em soluções computacionais bem definidas, buscando sempre unir teoria e prática de forma eficiente e organizada. Meu objetivo é evoluir continuamente como desenvolvedor, aprofundando meus conhecimentos em engenharia de software e inteligência artificial para criar soluções inovadoras e de alto impacto.
+<h1 align="center">Erick Borba</h1>
+<p align="center">
+  <strong>FULLSTACK DEVELOPER & RESEARCHER</strong>
+</p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-0A66C2?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/An%C3%A1lise_de_Sistemas-BNDES-2E8B57?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Pesquisa-Inmetro-17A2B8?style=for-the-badge"/> 
+  <a href="https://www.linkedin.com/in/erick1618/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+  <a href="mailto:erickcefetbcc@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>   
+</p>
 
 ---
 
 ### 📊 Estatísticas
 
 <div align="center">
-  
+
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/erick1-618?cardType=level&theme=tokyonight&fontFamily=Roboto&preferLogin=false)
 
 </div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&color=00F783&width=550&lines=Bem-vindo+ao+meu+perfil!;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
-#### 💻 Linguagens
-<div align="left">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-</div>
+> <h2>• Sobre mim</h2>
+>
+> Estudante de Bacharelado em Ciência da Computação no CEFET/RJ, atualmente desenvolvendo meu Trabalho de Conclusão de Curso sobre o algoritmo **BMSSP**.
+>
+> Estagiário em Análise e Desenvolvimento de Sistemas, pelo **BNDES** 
+>
+> Atuo como bolsista de pesquisa no **Inmetro**, participante do projeto Mobiciber. 
+>
+> Tenho interesse especial em algoritmos, simulações, jogos e sistemas para Web.
+>
+> Perfil orientado a experimentação e engenharia cuidadosa: gosto de entender o problema a fundo antes de programar a solução.
 
-#### ⚙️ Frameworks & Ferramentas
-<div align="left">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-</div>
+> <h2>• O que você vai encontrar aqui</h2>
+>
+> • Projetos full stack com FastAPI, React e IA aplicada
+>
+> • Simulações matemáticas (autômatos, sistemas fechados etc)
+>
+> • Projetos voltadas às disciplinas do bacharelado
+>
+> • Alguns jogos
 
-#### 🗄️ Bancos de Dados
-<div align="left">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-</div>
+<br>
+<h1 align='center'>Minhas Ferramentas</h1>
 
----
+> <h2>Linguagens</h2>
+<img src="https://skillicons.dev/icons?i=python,java,js" />
 
-<div align="center">
-  <i>Show me the code.</i>
-</div>
+> <h2>Backend & APIs</h2>
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,docker" />
+
+> <h2>Frontend</h2>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css" />
+
+> <h2>Bancos de Dados</h2>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
