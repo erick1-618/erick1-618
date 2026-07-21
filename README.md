@@ -3,9 +3,11 @@
   <strong>FULLSTACK DEVELOPER & RESEARCHER</strong>
 </p>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-0A66C2?style=for-the-badge"/> 
+  <img src="https://img.shields.io/badge/Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-CEFET%2FRJ-0A66C2?style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/An%C3%A1lise_de_Sistemas-BNDES-2E8B57?style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/Pesquisa-Inmetro-17A2B8?style=for-the-badge"/> 
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/erick1618/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
   <a href="mailto:erickcefetbcc@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>   
 </p>
