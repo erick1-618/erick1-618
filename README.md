@@ -38,7 +38,7 @@
 
 > <h2>• O que você vai encontrar aqui</h2>
 >
-> • Projetos full stack com FastAPI, React e IA aplicada
+> • Projetos full stack (Python, Java, Javascript)
 >
 > • Simulações matemáticas (autômatos, sistemas fechados etc)
 >
