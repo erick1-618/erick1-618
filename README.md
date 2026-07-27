@@ -59,5 +59,5 @@
 <img src="https://skillicons.dev/icons?i=react,vite,html,css" />
 
 > <h2>Bancos de Dados</h2>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
