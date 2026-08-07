@@ -22,8 +22,6 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&color=00F783&width=550&lines=Bem-vindo+ao+meu+perfil!;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
 > <h2>• Sobre mim</h2>
 >
 > Estudante de Bacharelado em Ciência da Computação no CEFET/RJ, atualmente desenvolvendo meu Trabalho de Conclusão de Curso sobre o algoritmo **BMSSP**.
