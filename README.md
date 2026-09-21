@@ -53,7 +53,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
 > <h2>Ferramentas e Infra</h2>
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,maven" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,maven,jenkins" />
 
 
 
