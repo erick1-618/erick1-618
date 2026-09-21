@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/Pesquisa-Inmetro-17A2B8?style=for-the-badge"/>   
 </p>
 
-<p align="center"> 
-<a href="https://eabrb-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Visite_meu_Portf%C3%B3lio-Click_Aqui-000000?style=for-the-badge"/>
+<p align="center">
+<a href="https://www.erickborba.dev.br/">
+    <img src="https://img.shields.io/badge/Visite_meu_Portf%C3%B3lio-www.erickborba.dev.br-000000?style=for-the-badge&labelColor=000000&color=000000"/>
 </a>
 </p>
 ---
