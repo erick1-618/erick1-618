@@ -56,6 +56,6 @@
 <h2>Entre em contato</h2>
   
 [![LinkedIn](https://img.shields.io/badge/-Conecte--se_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick1618/)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickcefetbcc@gmail.com)
+[![contato@erickborba.dev.br](https://img.shields.io/badge/-contato@erickborba.dev.br-58ff77?style=for-the-badge)](mailto:contato@erickborba.dev.br)
 
 </div>
