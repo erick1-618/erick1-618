@@ -32,7 +32,7 @@
 >
 > Tenho interesse especial em algoritmos, simulações, jogos e sistemas para Web.
 >
-> Perfil híbrido, combinando experiência corporativa com rigor metodológico acadêmico, transformando pesquisa em soluções aplicáveis e escaláveis.
+> Perfil híbrido, combinando experiência corporativa com acadêmica.
 
 <br>
 <h1 align='center'>Minhas Ferramentas</h1>
