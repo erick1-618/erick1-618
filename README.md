@@ -12,11 +12,11 @@
 
 ---
 
-### 📊 Estatísticas
-
 <div align="center">
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/erick1-618?cardType=level&theme=tokyonight&fontFamily=Roboto&preferLogin=false)
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&fontFamily=Comic%20Mono&showIcons=false&preferLogin=false&Text=009444&Title=9BFFD3&Background=DD272700">
+    <img  alt="erick1-618's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/erick1-618?cardType=level-alternate&fontFamily=Comic%20Mono&showIcons=false&preferLogin=false&Text=009444&Title=9BFFD3&Background=DD272700" />
+</a>
 
 </div>
 
